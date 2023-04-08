@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas, an <a href="https://www.linkedin.com/in/nicholas-toon-2a5176163?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfONnLHh0SaODp4bj3tbLJg%3D%3D">IT Professional </a>☺</h1>
+<h1>Hi, I'm Nicholas, an <a href="https://www.linkedin.com/in/nicholas-toon-2a5176163?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfONnLHh0SaODp4bj3tbLJg%3D%3D">IT Professional </a/h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
