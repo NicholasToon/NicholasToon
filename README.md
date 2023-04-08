@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: [https://linkedin.com/in/NicholasToon](https://www.linkedin.com/in/nicholas-toon-2a5176163/)
+[linkedin]: [https://linkedin.com/in/NicholasToon]
