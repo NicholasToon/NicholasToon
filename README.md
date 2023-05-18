@@ -11,7 +11,7 @@
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NicholasToon/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/NicholasToon/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration/tree/main)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NicholasToon/ticket-lifecycle)
 
 
