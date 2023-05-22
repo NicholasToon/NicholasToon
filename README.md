@@ -12,7 +12,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NicholasToon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Examples)
+  - [osTicket: Ticket Lifecycle Example](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example)
   - [osTicket: Email systems]
 
 <h2>🤳Connect with me:</h2>
