@@ -7,8 +7,11 @@
    - [Installing On-premises Active Directory within Azure VMs]
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/configure-ad)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasToon/azure-network-protocols)
+ 
+
+- <b>Virtual Private Networks VPN's</b>   
+   - [Proton VPN Setup and Observing IP Address Changes]
    
-  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NicholasToon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration)
