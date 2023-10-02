@@ -7,6 +7,8 @@
    - [Installing On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Installing-On-premises-Active-Directory-within-Azure-VMs)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Configuring-On-premises-Active-Directory-within-Azure-VMs)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasToon/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+   - [Understanding DNS in Azure](https://github.com/NicholasToon/Understanding-DNS-in-Azure)
+   - [Understanding File Permisions in Azure](https://github.com/NicholasToon/Understanding-File-Permissions-in-Azure)
  
 
 - <b>Virtual Private Networks VPN's</b>   
