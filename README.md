@@ -6,7 +6,7 @@
    - [Creating Resource Groups and Deploying Virtual Machines in Azure]
    - [Installing On-premises Active Directory within Azure VMs]
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasToon/azure-network-protocols)
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasToon/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
  
 
 - <b>Virtual Private Networks VPN's</b>   
