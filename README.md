@@ -10,7 +10,7 @@
  
 
 - <b>Virtual Private Networks VPN's</b>   
-   - [Proton VPN Setup and Observing IP Address Changes]
+   - [Proton VPN Setup and Observing IP Address Changes] (https://github.com/NicholasToon/Proton-VPN-Setup-and-Observing-IP-Address-Changes/tree/main)
    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NicholasToon/osticket-prereqs)
