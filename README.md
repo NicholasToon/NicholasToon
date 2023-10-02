@@ -3,8 +3,8 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-   - [Creating Resource Groups and Deploying Virtual Machines in Azure]
-   - [Installing On-premises Active Directory within Azure VMs]
+   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure)
+   - [Installing On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Installing-On-premises-Active-Directory-within-Azure-VMs)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Configuring-On-premises-Active-Directory-within-Azure-VMs)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasToon/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
  
