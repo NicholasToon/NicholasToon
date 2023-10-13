@@ -9,15 +9,14 @@
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NicholasToon/Configuring-On-premises-Active-Directory-within-Azure-VMs)
    - [Understanding DNS in Azure](https://github.com/NicholasToon/Understanding-DNS-in-Azure)
    - [Understanding File Permisions in Azure](https://github.com/NicholasToon/Understanding-File-Permissions-in-Azure)
- 
-
-- <b>Virtual Private Networks VPN's</b>   
-   - [Proton VPN Setup and Observing IP Address Changes](https://github.com/NicholasToon/Proton-VPN-Setup-and-Observing-IP-Address-Changes)
    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NicholasToon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/NicholasToon/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/NicholasToon/osTicket-Ticket-Lifetime-Example)
+
+- <b>Virtual Private Networks VPN's</b>   
+   - [Proton VPN Setup and Observing IP Address Changes](https://github.com/NicholasToon/Proton-VPN-Setup-and-Observing-IP-Address-Changes)
 
 <h2>🤳Connect with me:</h2>
 
